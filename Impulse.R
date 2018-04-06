@@ -1,5 +1,6 @@
 setwd("~/Downloads")
 
+# http://ee.iitkgp.ac.in/ees/impulse/data_analytics/Train.csv - Train data
 data = read.csv("Train.csv")
 test = read.csv("Test_Data.csv")
 
